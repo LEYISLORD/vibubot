@@ -129,12 +129,12 @@ const sleep = async (ms) => {
 const img = ['admin', 'ban', 'cowner', 'Faketumber', 'imagen', 'imgregla', 'M18', 'multimedia', 'TikTok', 'uwu']
 const imgramdon = img[Math.floor(Math.random() * img.length)]
 //CREADOR
-const yo = `𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊`
+const yo = `BO$$ VIBU`
 const Githu = 'https://github.com/thechoute'
-const Youtube = 'https://www.youtube.com/c/thechout'
-const WhatsApp = '18299897014'
-const instagram = 'https://www.instagram.com/the_choute_/'
-const WGrupo = 'https://chat.whatsapp.com/H6n4BdMISuyC12zUEVL08n'
+const Youtube = 'https://youtube.com/channel/UCYYL7IcLn7OgwAPO97JJOMw'
+const WhatsApp = '51959393283'
+const instagram = 'https://www.instagram.com/bossxvibu/'
+const WGrupo = 'https://chat.whatsapp.com/EuGOSVqZ8il7P7ayXvqIHd'
 
 //══════════════════ FUNCION DE REGISTRO ════════════════════════════════════\\
 const getRegisteredRandomId = () => {
@@ -795,9 +795,9 @@ const texto11 = `
           ✧☆∵✧☆
 ╰━─━─☾︎🌊☽︎─━─━╯`
 const cmenu = `
-╔╦══• •✠•❀•✠ • •══╦╗
-    🇯🇵💮 𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊 💮🇯🇵 
-╚╩══• •✠•❀•✠ • •══╩╝
+╔╦══• •✠•✠ • •══╦╗
+    $BOSS VIBU 💀
+╚╩══• •✠•✠ • •══╩╝
 ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
 Buenas tardes🌇 _@${sender.split('@')[0]}_
 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
@@ -851,9 +851,9 @@ _Si el bot presenta algun fallo, notificarlo a @${ownerNumber.split('@')[0]}_
 
 const base = `INFO DE MI CREADOR
 *Youtube:*
-https://www.youtube.com/channel/UC-HPutaDGeTPjrCId0bXQgg?sub_confirmation=1
+https://youtube.com/channel/UCYYL7IcLn7OgwAPO97JJOMw
 *Instagram:*
-https://www.instagram.com/the_choute_/
+https://www.instagram.com/bossxvibu/
 *Github:*
 https://github.com/Thechoute`
 
@@ -885,7 +885,7 @@ _Acontinuacion te muestro, mi creador, de preferencia solo hablare si necesitas 
 ☎️ *Número* : @${ownerNumber.split("@")[0]}
 🌐 *Instagram* : ${instagram}
 🌐 *Github:* ${Githu}
-🌐 *Youtube:* youtube.com/c/thechout`
+🌐 *Youtube:*https://youtube.com/channel/UCYYL7IcLn7OgwAPO97JJOMw`
 
 const registro = `
 *PORFAVOR ESCRIBE BIEN EL FORMATO DE REGISTRO:* 
@@ -908,7 +908,7 @@ const allmenu =
 `
 ╔─━━━░★░━━━━╗
         *MENU OFICIAL*
-        𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊
+        BOSS VIBU $
 ╚─━━━░★░━━━─╝
 ¤ = ~ ~ ◉ ~~ = ¤.•♫•♬•♬•♫•.
 ${timeFt} @${sender.split('@')[0]}
@@ -993,10 +993,10 @@ if (test.includes(`grupo`)){
   💭:Se ayuda a quienes tengas problemas
   
   Grupo 1 : 
-  _https://chat.whatsapp.com/H6n4BdMISuyC12zUEVL08n_
+  _https://chat.whatsapp.com/EuGOSVqZ8il7P7ayXvqIHd_
   
   Grupo 2 : 
-  _https://chat.whatsapp.com/GQnptaCf21IEvLJ69RPT4a_`, MessageType.text, {quoted: choute})
+  _https://chat.whatsapp.com/EuGOSVqZ8il7P7ayXvqIHd_`, MessageType.text, {quoted: choute})
   addFilter(from)
     addLevelingLevel(sender, 5)	}}
 
@@ -1130,7 +1130,7 @@ its = await getBuffer (ppimg)
     {"title": 'Cuenta de Instagram',       
     "body": 'Sigueme en Instagram',  
     "thumbnail": fs.readFileSync('./media/imagen/instagram.png'),
-    "sourceUrl": 'https://www.instagram.com/the_choute_/'}}})
+    "sourceUrl": 'https://www.instagram.com/bossxvibu/'}}})
       addFilter(from)  
   addLevelingLevel(sender, 5)	}}
 
@@ -1305,7 +1305,7 @@ if (choute.message.buttonsResponseMessage){
     uptime = process.uptime()
 leo.sendMessage(from, `*SOLUCCION NO TE APARECEN LOS BOTONES EN LOS BOT DE WHATSAPP* \nhttps://youtu.be/s5c6FTjmdPA `, MessageType.text, {quoted: choute, contextInfo: {"forwardingScore": 508, "isForwarded": true, "externalAdReply": 
   {"title": `Hola ${pushname} 👋🏻`, 
-  "body": `𝕿𝖍𝖊 𝕮𝖍𝖔𝖚𝖙𝖊`, "mediaType": 2, 
+  "body": `BOSS VIBU`, "mediaType": 2, 
   "thumbnail": fs.readFileSync(`media/imagen/multimedia.jpg`), 
   mediaUrl: "https://youtu.be/s5c6FTjmdPA"}}})
     addFilter(from)
@@ -1419,7 +1419,7 @@ if (choute.message.buttonsResponseMessage){
           imageMsg = (await leo.prepareMessageMedia((bufhtz), 'imageMessage', {thumbnail: fs.readFileSync(`./media/imagen/fake.jpg`)})).imageMessage
           buttonsMessage = {
           contentText: `${txtt}`,
-          footerText: '𝕭𝖆𝖇𝖞 𝕭𝖊𝖈𝖍𝖔𝖘𝖔 𝕺𝖋𝖈\n© Creator 𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊', imageMessage: imageMsg,
+          footerText: '𝕭𝖆𝖇𝖞 𝕭𝖊𝖈𝖍𝖔𝖘𝖔 𝕺𝖋𝖈\n© Creator @bossxvibu', imageMessage: imageMsg,
           buttons: buttons1,
           headerType: 4}
           prep = leo.prepareMessageFromContent(from, { buttonsMessage }, { quoted: choute,  contextInfo: { mentionedJid: [sender,ownerNumber]} })
@@ -1443,7 +1443,7 @@ if (!isRegister) return leoply(baby.only.usrReg)
   imageMsg = (await leo.prepareMessageMedia((imag), 'imageMessage', {thumbnail: fs.readFileSync(`./media/imagen/fake.jpg`)})).imageMessage
   buttonsMessage = {
   contentText: `${txtt}`,
-  footerText: '*Aviso:* No pulses por pulsar\n© Creator 𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊', imageMessage: imageMsg,
+  footerText: '*Aviso:* No pulses por pulsar\n© Creator @bossxvibu', imageMessage: imageMsg,
   buttons: buttons1,
   headerType: 4}
   prep = leo.prepareMessageFromContent(from, { buttonsMessage }, { quoted: choute,  contextInfo: { mentionedJid: [sender,ownerNumber]} })
@@ -1699,7 +1699,7 @@ case 'sticker':
                         {"title": 'Grupo Oficial',       
                         "body": 'Subcribete Te Podria Interesar',  
                         "thumbnail": fs.readFileSync('./media/imagen/uwu.jpg'),
-                        "sourceUrl": 'https://chat.whatsapp.com/GbfFmbRujNz33XoBz1Gljg'}}});
+                        "sourceUrl": 'https://chat.whatsapp.com/EuGOSVqZ8il7P7ayXvqIHd'}}});
                         fs.unlinkSync(media);
                         fs.unlinkSync(ran);})
                         .addOutputOptions([`-vcodec`, `libwebp`, `-vf`, `scale='min(320,iw)':min'(320,ih)':force_original_aspect_ratio=decrease,fps=15, pad=320:320:-1:-1:color=white@0.0, split [a][b]; [a] palettegen=reserve_transparent=on:transparency_color=ffffff [p]; [b][p] paletteuse`])
@@ -1765,7 +1765,7 @@ case 'creador':
                 {"title": 'Sigueme en Youtube',       
                 "body": 'The Choute OFC',  
                 "thumbnail": fs.readFileSync('./media/imagen/ldeadnote.png'),
-                "sourceUrl": 'https://www.youtube.com/channel/UC-HPutaDGeTPjrCId0bXQgg?sub_confirmation=1'}}})
+                "sourceUrl": 'https://youtube.com/channel/UCYYL7IcLn7OgwAPO97JJOMw'}}})
                 break  
 
 case 'bug':
@@ -1909,7 +1909,7 @@ teks =
                 {"title": 'Sigueme en Youtube',       
                 "body": 'Subcribete Te Podria Interesar',  
                 "thumbnail": its,
-                "sourceUrl": 'https://www.youtube.com/channel/UC-HPutaDGeTPjrCId0bXQgg?sub_confirmation=1'}}})
+                "sourceUrl": 'https://youtube.com/channel/UCYYL7IcLn7OgwAPO97JJOMw'}}})
                 break
 
 case 'level':
@@ -1935,7 +1935,7 @@ case 'wame':
                 {"title": 'Sigueme en Instagram',       
                 "body": 'Subcribete Te Podria Interesar',  
                 "thumbnail": its,
-                "sourceUrl": 'https://www.youtube.com/channel/UC-HPutaDGeTPjrCId0bXQgg?sub_confirmation=1'}}})
+                "sourceUrl": 'https://youtube.com/channel/UCYYL7IcLn7OgwAPO97JJOMw'}}})
                 break
 
 case 'catalogo':
@@ -1979,7 +1979,7 @@ leo.sendMessage(from, `${install}`, MessageType.text, {quoted: choute,  contextI
     {"title": `Hola ${pushname} 👋🏻`, 
     "body": `MIRA EL VIDEO COMPLETO`, "mediaType": 2, 
     "thumbnail": fs.readFileSync(`media/imagen/youtube-min.jpg`), 
-    mediaUrl: "https://www.youtube.com/watch?v=Uv8U9VChJHo&t"}}})  
+    mediaUrl: "https://youtube.com/channel/UCYYL7IcLn7OgwAPO97JJOMw"}}})  
 
 //COMANDOS SOLO DISPONIBLES PARA EL DUEÑO DEL BOT
 
@@ -2310,7 +2310,7 @@ case 'vor':
             imageMsg = (await leo.prepareMessageMedia(fs.readFileSync(`./media/imagen/vor.jpg`), 'imageMessage', {thumbnail: fs.readFileSync(`./media/imagen/fake.jpg`)})).imageMessage
             buttonsMessage = {
             contentText: `${txtt}`,
-            footerText: '© Creator 𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊', imageMessage: imageMsg,
+            footerText: '© Creator @bossxvibu', imageMessage: imageMsg,
             buttons: buttons1,
             headerType: 4} 
             prep = leo.prepareMessageFromContent(from, { buttonsMessage }, { quoted: choute })
